@@ -15,6 +15,11 @@ The roles of the source files and their relationships are explained below.
   <ul>
     <li> SUB_alpha.m &middot;&middot;&middot; A subroutine to obtain the approximate value of &alpha;<sup>*</sup><sub>N</sub> with the Newton method. </li>
     <li> SUB_gen_opt_sample.m &middot;&middot;&middot; A subroutine to generate the sampling points with the Fourier transform. The following auxiliary programs are used.</li>
+    <ul>
+      <li> SC.m </li>
+      <li> FLT.m </li>
+      <li> FFFT.m </li>
+    </ul>
   </ul>
   </li>
 
