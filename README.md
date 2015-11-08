@@ -8,9 +8,14 @@ which was written by my collaborators and me. See this article for the technical
 
 The roles of the source files and their relationships are explained below.
 
-[Main program for the design of approximation formulas]
+[Main program for the design of the proposed formulas]
 
 <ul>
-<li> MAIN_opt_sample_wrt_N.m </li>
+  <li> MAIN_opt_sample_wrt_N.m <br>
+  A program to generate the sampling points of the proposed formulas. The subroutines used in this program are listed below.
+  <ul>
+    <li> SUB_alpha.m --- </li>
+  </ul>
+  </li>
 
 </ul>
