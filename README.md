@@ -30,7 +30,7 @@ The roles of the source files and their relationships are explained below.
 (<a href="http://www.advanpix.com/documentation/users-manual/">ADVANPIX Multiprecision Computing Toolbox</a> is used for mulpi-precision arithmetic)
 
 <ul>
-<li> MAIN_approx_comput.m &middot;&middot;&middot; A program to compute the errors of the approximation of functions by the proposed formula. </li>
+<li> MAIN_approx_comput.m &middot;&middot;&middot; A program to compute the errors of the approximation of functions by the proposed formula. The following subroutine is used. </li>
   <ul>
     <li> SUB_approx_Blaschke_MP.m &middot;&middot;&middot; A subroutine to compute the approximation of functions by the proposed formula. </li>
 
