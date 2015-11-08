@@ -14,7 +14,7 @@ The roles of the source files and their relationships are explained below.
   <li> MAIN_opt_sample_wrt_N.m <br>
   A program to generate the sampling points of the proposed formulas. The subroutines used in this program are listed below.
   <ul>
-    <li> SUB_alpha.m --- </li>
+    <li> SUB_alpha.m --- A subroutine to obtain the approximate value of &alpha<sub>N</sub>. </li>
   </ul>
   </li>
 
