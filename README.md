@@ -26,5 +26,10 @@ The roles of the source files and their relationships are explained below.
 
 </ul>
 
-[Main program for the experiments of approximating functions by the proposed formulas]
+[Main program for the experiments of approximating functions by the proposed formulas]<br>
+(<a href="http://www.advanpix.com/documentation/users-manual/">ADVANPIX Multiprecision Computing Toolbox</a> is used for mulpi-precision arithmetic)
 
+<ul>
+<li> MAIN_approx_comput.m &middot;&middot;&middot; </li>
+
+</ul>
