@@ -8,6 +8,9 @@ which was written by my collaborators and me. See this article for the technical
 
 The roles of the source files and their relationships are explained below.
 
+[Main program for the design of approximation formulas]
 
+<ul>
+<li> MAIN_opt_sample_wrt_N.m </li>
 
-
+</ul>
