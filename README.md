@@ -1,3 +1,3 @@
-% test
+Matlab codes for potential theoretic design of formulas for approximation of functions
 
 These Matlab codes are ...
