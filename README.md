@@ -11,7 +11,7 @@ The roles of the source files and their relationships are explained below.
 [Main program for the design of the proposed formulas]
 
 <ul>
-  <li> MAIN_opt_sample_wrt_N.m &middot;&middot;&middot; A program to generate the sampling points of the proposed formulas. The subroutines used in this program are listed below.
+  <li> MAIN_opt_sample_wrt_N.m &middot;&middot;&middot; A program to generate the sampling points of the proposed formulas. The subroutines and the functions used in this program are listed below.
   <ul>
     <li> SUB_alpha.m &middot;&middot;&middot; A subroutine to obtain the approximate value of &alpha;<sup>*</sup><sub>N</sub> with the Newton method. </li>
     <li> SUB_gen_opt_sample.m &middot;&middot;&middot; A subroutine to generate the sampling points with the Fourier transform. The following auxiliary programs are used. The first two are used to define some mathematical functions and the last one executes fractional FFT.</li>
@@ -20,6 +20,7 @@ The roles of the source files and their relationships are explained below.
       <li> FLT.m </li>
       <li> FFFT.m </li>
     </ul>
+    <li> LogInvDE.m &middot;&middot;&middot; The logarithm of the inverse of the double-exponential weight.</li>
   </ul>
   </li>
 
