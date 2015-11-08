@@ -1,3 +1,3 @@
-<H1> Matlab codes for potential theoretic design of formulas for approximation of functions </H1>
+<H1>Matlab codes for potential theoretic design of formulas for approximation of functions</H1>
 
 These Matlab codes are ...
