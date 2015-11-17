@@ -2,7 +2,7 @@
 
 These are Matlab R2015a (8.5.0.197613) codes for potential theoretic design of formulas for approximation of functions in weighted Hardy spaces. These codes were used to yield the results of the numerical experiments in the article
 
-"Potential theoretic approach to design of highly accurate formulas for function approximation in weighted Hardy spaces" (in preparation),
+"Potential theoretic approach to design of highly accurate formulas for function approximation in weighted Hardy spaces" (<a href="http://arxiv.org/abs/1511.04530">arXiv:1511.04530</a>),
 
 which was written by my collaborators and me. See this article for the technical details of the method.
 
